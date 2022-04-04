@@ -1,2 +1,2 @@
 #!/bin/bash
-head iacta
+ls -lt | head iacta
